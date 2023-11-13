@@ -32,3 +32,4 @@ I might build integrations to:
 
 - Automatically update designated content based on external events
 - Back up my workspace
+- Run some content through a langchain
