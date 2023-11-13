@@ -1,6 +1,6 @@
 # My First Notion Integration
 
-This is just a throwaway test to see what I can do with Notion's [integration API](https://www.notion.so/integrations/all).
+This is just a throwaway test to see what I can do with Notion's [integration API](https://www.notion.so/integrations/all). It requires you to set up an integration on the [My Integrations page](https://www.notion.so/my-integration).
 
 ## What's in the box
 
