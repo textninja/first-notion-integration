@@ -23,7 +23,7 @@ yarn
 Run.
 
 ```bash
-yarn run
+yarn start
 ```
 
 ## Some ideas
