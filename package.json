@@ -1,0 +1,9 @@
+{
+  "name": "first-notion-integration",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/textninja/first-notion-integration.git",
+  "author": "Joe Taylor <joe@textninja.net>",
+  "license": "MIT"
+}
