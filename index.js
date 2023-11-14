@@ -1,15 +1,16 @@
 import 'dotenv/config';
-import Notion from '@notionhq/client';
 import { INTEGRATION_PAGE_ID } from './lib/constants.js';
 
-const { Client: NotionClient } = Notion;
+const integrations = [
+    'retrieve-page-title'
+];
 
-const notion = new NotionClient({
-    auth: process.env.NOTION_INTEGRATION_SECRET
-});
+for (let integration of integrations) {
+    console.log(`Running integrations/${integration}.js`);
 
-const page = await notion.pages.retrieve({
-    page_id: INTEGRATION_PAGE_ID
-});
-
-console.log('The page title is ' + page.properties.title.title[0].text.content);
+    const run = (await import(`./lib/integrations/${integration}.js`)).default;
+    await run(
+        process.env.NOTION_INTEGRATION_SECRET,
+        INTEGRATION_PAGE_ID
+    );
+}
