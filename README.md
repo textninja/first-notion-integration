@@ -4,7 +4,11 @@ This is a throwaway test to see what I can do with Notion's [integration API](ht
 
 ## What's in the box
 
-We're going to start with an integration that reads the title of a page.
+I'm working through a series of progressive challenges:
+
+- [x] Retrieve page title
+- [ ] Retrieve page content
+- [ ] Add CI to update a README file using a particular page's content
 
 ## Set up
 
