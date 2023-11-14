@@ -39,11 +39,11 @@ node index.js
 
 ## Future development
 
-I'm just beginning with the notion integrations API, but can imagine building integrations to:
+I'm just beginning with Notion's integrations API, but can imagine building integrations to:
 
 - Automatically update designated content based on external events
 - Back up a workspace or page
 - Run some content through a langchain
 - Update a README or project docs
 - Pull data from a Notion database into a CMS
-- Use notion as a store for content scheduled for posting on social media
+- Use Notion as a store for content scheduled for posting on social media
