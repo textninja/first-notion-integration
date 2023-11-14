@@ -4,7 +4,7 @@ This is a throwaway trial of Notion's [Integration API](https://www.notion.so/in
 
 ## What's in the box
 
-I'm working through a series of progressive challenges:
+I'm working through a series of progressively more difficult challenges:
 
 - [x] Retrieve page title
 - [ ] Retrieve page content
