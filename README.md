@@ -1,4 +1,4 @@
-# My First Notion Integration
+# Trial Integrations for Notion
 
 This is a throwaway trial of Notion's [Integration API](https://www.notion.so/integrations/all). You'll need to set up an integration on the [My Integrations](https://www.notion.so/my-integration) page and configure permissions accordingly.
 

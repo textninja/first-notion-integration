@@ -1,5 +1,5 @@
 {
-  "name": "first-notion-integration",
+  "name": "notion-trial-integrations",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": "https://github.com/textninja/first-notion-integration.git",
+  "repository": "https://github.com/textninja/notion-trial-integrations.git",
   "author": "Joe Taylor <joe@textninja.net>",
   "license": "MIT",
   "dependencies": {
