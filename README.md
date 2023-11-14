@@ -1,4 +1,4 @@
-# Trial Integrations for Notion
+# Trialing Notion Integrations
 
 This is a throwaway trial of Notion's [Integration API](https://www.notion.so/integrations/all). To run this code you'll need to set up an integration on the [My Integrations](https://www.notion.so/my-integration) page and configure permissions accordingly.
 
